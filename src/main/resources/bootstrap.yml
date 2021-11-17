@@ -1,0 +1,8 @@
+#server:
+  #port: 8059
+#spring:
+  #cloud:
+    #stream:
+      #bindings:
+        #input:
+          #destination: money-transaction
